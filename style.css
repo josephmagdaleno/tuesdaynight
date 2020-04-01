@@ -1,0 +1,37 @@
+p.red{
+    color:red;
+}
+p.blue{
+    color:blue;
+}
+p.green{
+    color:green;
+}
+p.big{
+    font-size:40px;
+}
+p.tiny{
+    font-size:7px;
+}
+p.centered{
+    text-align: center;
+}
+p.bold{
+    font-weight: bold;
+}
+p.font{
+    font-family: cursive;
+}
+p.orange{
+    font-weight: bold;
+    color:orange;
+    font-size:30px;
+}
+p.styledFont{
+    color: blueviolet;
+}
+img{
+    border: 7px solid;
+    color:orange;
+    border-style: dotted;
+}
